@@ -6,5 +6,5 @@ This project presents a comprehensive scheme for reconstructing a three-dimensio
 calibration. The depth information is useful so as to estimate the actual position of the target object. It is an essential parameter 
 that can allow visualization from multiple perspectives. We provide an improved method for detecting objects and calculating the distance 
 of these objects using stereo vision in real time. The stages involved include camera calibration, image rectifying, disparity calculation,
-and three dimensional reconstruction. Results show that objects located from 65cm up to 203cm are properly measured for their distances, 
+and three dimensional reconstruction. Results show that objects located from 60cm up to 208cm are properly measured for their distances, 
 with an average error of 3cm. The precision of the measurement also depends on the quality of the calibration.
